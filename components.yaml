@@ -1,4 +1,4 @@
 ecbuild:
   local: ./@ecbuild
-  remote: git@github.com:GEOS-ESM/ecbuild.git
+  remote: https://github.com/GEOS-ESM/ecbuild.git
   tag: geos/v1.3.0
